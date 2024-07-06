@@ -1,31 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Markdown on Jake Genia</title>
-    <link>http://localhost:1313/tags/markdown/</link>
-    <description>Recent content in Markdown on Jake Genia</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0600</lastBuildDate><atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
-      <title>Rest VS GraphQL</title>
-      <link>http://localhost:1313/posts/rest-vs-graphql/</link>
-      <pubDate>Sat, 06 Jul 2024 00:00:00 +0600</pubDate>
-      
-      <guid>http://localhost:1313/posts/rest-vs-graphql/</guid>
-      <description>GraphQL vs REST GraphQL is an open source query language for APIs. It&amp;rsquo;s architecture is subversive compared to the more commonplace REST architecture.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markdown on Jake Genia</title><link>https://jakegenia.com/tags/markdown/</link><description>Recent content in Markdown on Jake Genia</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0600</lastBuildDate><atom:link href="https://jakegenia.com/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>Rest VS GraphQL</title><link>https://jakegenia.com/posts/rest-vs-graphql/</link><pubDate>Sat, 06 Jul 2024 00:00:00 +0600</pubDate><guid>https://jakegenia.com/posts/rest-vs-graphql/</guid><description>GraphQL vs REST GraphQL is an open source query language for APIs. It&amp;rsquo;s architecture is subversive compared to the more commonplace REST architecture.
 Originally developed by Facebook in 2012, then released as an open source project in 2015. &amp;ldquo;By 2027, more than 60% of enterprises will use GraphQL in production, up from less than 30% in 2024&amp;rdquo;, according to the following Gartner Report
-Disclaimer The following article is not all encompassing.</description>
-    </item>
-    
-    <item>
-      <title>Chapter 1</title>
-      <link>http://localhost:1313/posts/notes/oscp-notes/chapter-1/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>http://localhost:1313/posts/notes/oscp-notes/chapter-1/</guid>
-      <description></description>
-    </item>
-    
-    
-  </channel>
-</rss>
+Disclaimer The following article is not all encompassing.</description></item><item><title>Chapter 1</title><link>https://jakegenia.com/posts/notes/oscp-notes/chapter-1/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://jakegenia.com/posts/notes/oscp-notes/chapter-1/</guid><description/></item></channel></rss>
