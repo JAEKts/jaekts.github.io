@@ -12,8 +12,9 @@
       <pubDate>Sat, 06 Jul 2024 00:00:00 +0600</pubDate>
       
       <guid>http://localhost:1313/posts/rest-vs-graphql/</guid>
-      <description>GraphQL vs REST GraphQL is a new technology, originally developed by Facebook in 2012, then released as an open source project in 2015. &amp;ldquo;By 2027, more than 60% of enterprises will use GraphQL in production, up from less than 30% in 2024&amp;rdquo;, according to the following Gartner Report
-Disclaimer The following article is not all encompassing. It&amp;rsquo;s main purpose is to be used as an introductory lesson to these concepts. It&amp;rsquo;s also my first article, so cheers!</description>
+      <description>GraphQL vs REST GraphQL is an open source query language for APIs. It&amp;rsquo;s architecture is subversive compared to the more commonplace REST architecture.
+Originally developed by Facebook in 2012, then released as an open source project in 2015. &amp;ldquo;By 2027, more than 60% of enterprises will use GraphQL in production, up from less than 30% in 2024&amp;rdquo;, according to the following Gartner Report
+Disclaimer The following article is not all encompassing.</description>
     </item>
     
     

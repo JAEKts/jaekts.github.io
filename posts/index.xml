@@ -12,8 +12,9 @@
       <pubDate>Sat, 06 Jul 2024 00:00:00 +0600</pubDate>
       
       <guid>http://localhost:1313/posts/rest-vs-graphql/</guid>
-      <description>GraphQL vs REST GraphQL is a new technology, originally developed by Facebook in 2012, then released as an open source project in 2015. &amp;ldquo;By 2027, more than 60% of enterprises will use GraphQL in production, up from less than 30% in 2024&amp;rdquo;, according to the following Gartner Report
-Disclaimer The following article is not all encompassing. It&amp;rsquo;s main purpose is to be used as an introductory lesson to these concepts. It&amp;rsquo;s also my first article, so cheers!</description>
+      <description>GraphQL vs REST GraphQL is an open source query language for APIs. It&amp;rsquo;s architecture is subversive compared to the more commonplace REST architecture.
+Originally developed by Facebook in 2012, then released as an open source project in 2015. &amp;ldquo;By 2027, more than 60% of enterprises will use GraphQL in production, up from less than 30% in 2024&amp;rdquo;, according to the following Gartner Report
+Disclaimer The following article is not all encompassing.</description>
     </item>
     
     <item>
@@ -23,28 +24,6 @@ Disclaimer The following article is not all encompassing. It&amp;rsquo;s main pu
       
       <guid>http://localhost:1313/posts/notes/oscp-notes/chapter-1/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown Samples</title>
-      <link>http://localhost:1313/posts/markdown-sample/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>http://localhost:1313/posts/markdown-sample/</guid>
-      <description>This is a sample post intended to test the followings:
-A different post author. Table of contents. Markdown content rendering. Math rendering. Emoji rendering. Markdown Syntax Rendering Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
-    </item>
-    
-    <item>
-      <title>Shortcodes Samples</title>
-      <link>http://localhost:1313/posts/shortcodes/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>http://localhost:1313/posts/shortcodes/</guid>
-      <description>This is a sample post intended to test the followings:
-Default hero image. Different shortcodes. Alert The following alerts are available in this theme.
-This is sample alert with type=&amp;quot;success&amp;quot;. This is sample alert with type=&amp;quot;danger&amp;quot;. This is sample alert with type=&amp;quot;warning&amp;quot;. This is sample alert with type=&amp;quot;info&amp;quot;. This is sample alert with type=&amp;quot;dark&amp;quot;. This is sample alert with type=&amp;quot;primary&amp;quot;. This is sample alert with type=&amp;quot;secondary&amp;quot;. Image A sample image without any attribute.</description>
     </item>
     
     
